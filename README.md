@@ -23,7 +23,7 @@
 
 ### 💌 Let’s Connect!
 <p align="center">
-  <a href="mailto:ุุ66200340.kmitl.ac.th">📧 Email</a> •
+  <a href="mailto:ุุ66200340@kmitl.ac.th">📧 Email</a> •
 </p>
 
 ---
