@@ -1,7 +1,7 @@
 <h2 align="center">✨ Hi, I'm Chompoonoot 👩‍💻</h2>
 
 <p align="center">
-  💻 <b>Computer Engineering Student @ KMITL Prince Of Chumphon</b><br>
+  💻 <b>Computer Engineering Student @ KMITL Chumphon Campus</b><br>
   🌈 Passionate about <b>Web Development & UI Design</b><br>
   🚀 Always learning, creating, and improving ✨
 </p>
