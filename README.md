@@ -16,9 +16,8 @@
 ---
 
 ### 💼 Projects
-- 🏠 **Room Booking System (RBS-KMITL)** — Web-based booking system built with React and Figma  
-- 🌐 **Portfolio Website** — Designed and coded my personal portfolio using React  
-- 💬 **Mini Chat App** — A fun project exploring real-time messaging  
+- 🏠 **Room Booking System (RBS-KMITL)** — A web-based room booking platform for efficiently managing room bookings within KMITL.
+- 🌐 **Waste Sorting Machine and Automatic Point Collection System** — Smart recycling system that sorts waste and collects user points automatically.
 
 ---
 
