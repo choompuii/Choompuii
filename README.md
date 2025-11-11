@@ -21,18 +21,10 @@
 
 ---
 
-### 🌱 What I'm Learning
-- React Hooks & Component Patterns  
-- UI/UX Design Basics  
-- API integration for web apps  
-
----
-
 ### 💌 Let’s Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/yourname" target="_blank">💼 LinkedIn</a> •
-  <a href="mailto:youremail@example.com">📧 Email</a> •
-  <a href="https://your-portfolio-link.com" target="_blank">🌐 Portfolio</a>
+  <a href="mailto:ุุ66200340.kmitl.ac.th">📧 Email</a> •
 </p>
 
 ---
